@@ -3,3 +3,6 @@
 install react-router-dom for navbar
 
 >>npm install --save react-router-dom
+
+npm install --save bootstrap
+npm install --save reactstrap 
