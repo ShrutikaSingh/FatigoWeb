@@ -5,7 +5,6 @@ create-react-app fatigo
 
 in app.js
 
-
 import React, { Component } from 'react';
 import './App.css';
 import FacebookLogin from 'react-facebook-login';

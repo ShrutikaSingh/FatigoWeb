@@ -20,7 +20,6 @@ class App extends Component {
       <div className="App">
         <NavBar/>
         <h1>LOGIN WITH FACEBOOK AND GOOGLE</h1>
-
       <FacebookLogin
         appId="" //APP ID NOT CREATED YET
         fields="name,email,picture"
@@ -29,7 +28,7 @@ class App extends Component {
       <br />
       <br />
 
-
+      
       <GoogleLogin
         clientId="" //CLIENTID NOT CREATED YET
         buttonText="LOGIN WITH GOOGLE"
